@@ -1,5 +1,6 @@
 import React from 'react';
-import Logo from '../../assets/img/Logo_Leoflix.png'
+//import Logo from '../../assets/img/Logo_Leoflix.png'
+import Logo from '../../assets/img/Logo_Quelflix.png'
 import ButtonLink from '../Menu/Components/ButtonLink';
 import './Menu.css'
 import Button from '../Button'
